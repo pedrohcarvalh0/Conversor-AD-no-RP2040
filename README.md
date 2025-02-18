@@ -1,6 +1,6 @@
 # Controle de LEDs e Display OLED com Joystick - RP2040 + BitDogLab
 
-Este projeto utiliza o microcontrolador **RP2040** com a placa **BitDogLab**, permitindo controlar a intensidade de **LEDs RGB via joystick analógico**, além de movimentar um **quadrado no display OLED SSD1306**. O sistema inclui **interrupções (IRQ) para botões**, **PWM para LEDs RGB** e **I2C para comunicação com o display**.
+Este projeto utiliza o microcontrolador **RP2040** com a placa **BitDogLab**, permitindo controlar a intensidade de **LEDs RGB via joystick analógico usando um conversor analógico-digital**, além de movimentar um **quadrado no display OLED SSD1306**. O sistema inclui **interrupções (IRQ) para botões**, **PWM para LEDs RGB** e **I2C para comunicação com o display**.
 
 ---
 
